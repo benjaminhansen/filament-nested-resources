@@ -1,5 +1,5 @@
 {
-    "name": "guava/filament-nested-resources",
+    "name": "benjaminhansen/filament-nested-resources",
     "type": "library",
     "license": "MIT",
     "autoload": {
